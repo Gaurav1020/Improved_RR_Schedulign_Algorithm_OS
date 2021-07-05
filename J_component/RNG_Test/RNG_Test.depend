@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620447052 source:c:\users\dell\desktop\os\j component\rng_test\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1622005747 source:c:\users\dell\desktop\os\j_component\rng_test\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1612968144 source:c:\users\dell\desktop\os\j component\main.cpp
+	<iostream>
+	"array.h"
+
+1612967591 c:\users\dell\desktop\os\j component\array.h
+	"scheduler.h"
+
+1612967574 c:\users\dell\desktop\os\j component\scheduler.h
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<string.h>
+
+1612968249 source:c:\users\dell\desktop\os\j component\array.cpp
+	"array.h"
+	"scheduler.h"
+
+1612896265 source:c:\users\dell\desktop\os\j component\scheduler.cpp
+

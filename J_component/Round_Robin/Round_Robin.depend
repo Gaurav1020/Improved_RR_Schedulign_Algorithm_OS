@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620386463 source:c:\users\dell\desktop\os\j component\round_robin\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+
+1620413430 source:c:\users\dell\desktop\os\j_component\round_robin\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

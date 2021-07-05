@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620410006 source:c:\users\dell\desktop\os\j component\improved_rr\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+
+1621940433 source:c:\users\dell\desktop\os\j_component\improved_rr\main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .plots{
+            background-color: transparent;
+            width: 50%;
+            min-width: 50%;
+            height: calc(25vw * 1.72);
+            margin: 20px;
+            border: 2px solid rgb(109, 108, 108);
+        
+        }
+        
+        .containers{
+            width:100%;
+            height:fit-content;
+            justify-content:center;
+            align-items:center;
+            display:flex;
+            flex-direction: column;
+            background-color: rgb(250, 250, 250);
+        }
+    </style>
+</head>
+<body>
+    <div class="containers">
+        <div class=" plots " id="CT">
+            <object width=100% height=100% data="CT.html"></object>
+        </div>
+
+        <div class="plots " id="TAT">
+            <object width=100% height=100% data="TAT.html"></object>
+        </div>
+        <div class="plots " id="WT">
+            <object width=100% height=100% data="WT.html"></object>
+        </div>
+        <div class="plots " id="avgTAT">
+            <object width=100% height=100% data="avgTAT.html"></object>
+        </div>
+        <div class="plots " id="avgWT">
+            <object width=100% height=100% data="avgWT.html"></object>
+        </div>
+    </div>
+</body>
+</html>

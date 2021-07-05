@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620409483 source:c:\users\dell\desktop\os\j component\test\main.c
+	<stdio.h>
+	<string.h>
+
